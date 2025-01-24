@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="..img/toolbelt_img.jpg">
+# <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
 
 When it comes to programming I imagine a tool belt around my waist. Once you first get started you start to use and gain more tools on your belt. Maybe your first language was Python or Java but eventually as you continue to go through school and different experiences throughout your life, your toolbelt gains a large plethra of tools. 
 
