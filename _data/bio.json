@@ -10,15 +10,15 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "IsaiahDelaCruz", "url": "http://github.com/IsaiahDelaCruz" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "IsaiahDelaCruz", "url": "http://linkedin.com/in/isaiah-dela-cruz" },
+      { "network": "instagram", "username": "zaexdc", "url": "http://instagram.com/zaexdc" }
     ]
   },
   "interests": [
     { "name": "Software Development" },
     { "name": "Video Game Design" },
-    { "name": "____" },
-    { "name": "____" }
+    { "name": "Music" },
+    { "name": "Art and Film" }
   ],
   "skills": [
     {
