@@ -18,7 +18,7 @@ The bank database itself works mostly similar to how you'd think a bank database
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/banksmol.png" class="img-thumbnail" >
 </div>
 
 
