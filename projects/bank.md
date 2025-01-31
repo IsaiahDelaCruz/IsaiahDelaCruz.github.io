@@ -22,4 +22,4 @@ The bank database itself works mostly similar to how you'd think a bank database
 </div>
 
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Source: *code is stored in a UH unix server
