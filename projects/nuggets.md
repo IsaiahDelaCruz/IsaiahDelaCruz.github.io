@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/images.png
 title: "Denver Nuggets Blog Post"
 date: 2025
 published: true
@@ -16,7 +16,7 @@ This paper I wrote for English 100 was a bit different than the usual essay and 
 Writing this paper was a extremely fun and intersting experience as it really got me to test my creativity and the lengths of it. I found myself enjoying writing the paper as I really enjoy watching the NBA (especially the Denver Nuggets). This assignment from my English 100 class made me realize when I get the creative freedom the difficulty of the task becomes less aparent and more digestible and interesting. 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/denver.jpg" class="img-thumbnail" >
 </div>
 
 
