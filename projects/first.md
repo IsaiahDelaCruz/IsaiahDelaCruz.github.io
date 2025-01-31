@@ -9,7 +9,7 @@ labels:
   - Database
   - C
   - C++
-summary: "This Bank Database was a project from ICS 2__. It's intended to recreate the way a Bank Database works with the programming languages C and C++"
+summary: "This Bank Database was a project from ICS 212. It's intended to recreate the way a Bank Database works with the programming languages C and C++"
 ---
 
 The goal of the project was to mimic a real world work assignment by trying to create a bank database piece by piece with vague instructions each time. With the assignment being given with vague instructions and to many students there were many ways for the project to be completed but with efficiency in mind as well.
