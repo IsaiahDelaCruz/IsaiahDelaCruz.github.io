@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Bank Database"
-date: 2025
+title: "Palauan Language Research Paper"
+date: 2024
 published: true
 labels:
-  - Database
-  - C
-  - C++
-summary: "This Bank Database was a project from ICS 2__. It's intended to recreate the way a Bank Database works with the programming languages C and C++"
+  - Research
+  - Langauge
+  - Sustainability
+summary: "The early stages of language endangerment in Palau, a research paper for LING 150C"
 ---
 
 The goal of the project was to mimic a real world work assignment by trying to create a bank database piece by piece with vague instructions each time. With the assignment being given with vague instructions and to many students there were many ways for the project to be completed but with efficiency in mind as well.
