@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/images (2).png
 title: "Bank Database"
 date: 2025
 published: true
