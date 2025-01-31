@@ -16,5 +16,3 @@ In my LING 150C class we learned alot about language endangerment and how a lang
 
 From writing and researching for this paper I learned that the power of doing extensive research goes a long way.  It’s easy to fall into the trap of only skimming sources or stopping at the first layer of research, but truly understanding a topic requires deeper investigation. Looking into historical, social, and political factors helped me see how language endangerment is a complex issue, not just a simple case of fewer people speaking a language. In addition, I learned that research is not just about collecting facts but about making connections between them. This process gave me a greater appreciation for the role of linguists in documenting and saving endangered languages.
 
-
-Source: (https://docs.google.com/document/d/1nsYP9akmYpibtpEg8IfNn7xYJwkFd32PXZr29IxGVdc/edit?usp=sharing).
