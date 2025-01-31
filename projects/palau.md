@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flag-400.png
+image: img/4009102.png
 title: "Palauan Language Research Paper"
 date: 2024
 published: true
