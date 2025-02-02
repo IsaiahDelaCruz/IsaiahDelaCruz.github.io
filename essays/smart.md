@@ -1,45 +1,45 @@
 ---
 layout: essay
 type: essay
-title: "One more tool in my belt"
+title: "The Good, Bad and Ugly questions"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-22
+date: 2025-02-01
 published: true
 labels:
   - Computer Science
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
+Whats a bad question? See how open ended and vague that question was? How, without any prior context you have absolutely no idea what exactly im referring to when I ask that question? What if instead I asked; "Whats an example of a bad question to ask in the context of software programming?". See the differnece?  
 
-When it comes to programming I imagine a tool belt around my waist. Once you first get started you start to use and gain more tools on your belt. Maybe your first language was Python or Java but eventually as you continue to go through school and different experiences throughout your life, your toolbelt gains a large plethra of tools. 
+You've always been told by your teachers in grade school that there are no "stupid questions" which is technically true but there are "bad questions". The way you ask a question can determine what answer you get. Which sounds like common sense however, when it comes to the context of software programming and coding it might be a bit harder to find the question your looking for.
 
-I consider myself someone who "bloomed late" as I only started gaining interest in programming and coding in my Senior year of Highschool when I decided to take a AP Computer Science class. The class itself was extremely fun and I found myself both challenged and engaged with each assignment there was to come.
-
-As the class went on I really felt like I was onto something with my life, it felt like I was called to do something I just didnt know what yet. This feeling was always so thrilling yet so subtle and periodic. Days where I learn a new way to implement something or learn more about the program structure itself. Even if its just anything small I learned and picked up on the way thats when I realized something.
-
-The best part for me was getting one more tool in my belt.
+Software programming has and always will be extremely complicated and sophisticated due to the nature and process of creating a program. It takes knowledge of how to create an algorithm and knowledge of the computer language itself. With that in mind how in the world do you ask a question related to coding?
 
 
+## The Good Question
 
-## Learning Typescript
+When it comes to an actual good question about your code alot of factors are considered when formulating said question. What you want to achieve and context. These 2 key factors are the basic foundation to a good and maybe even great question.
 
-Currently im a Junior in Computer Science and so far I've got Python, Java, C and C++ in my toolbelt of programming languages. In learning all of those languages none compare to the way typescript has given me its first impression. When learning the languages I have, most of them share very common naming conventions and even have similar if not the exact same implementation of how theyre used.
+Heres an example of a good question found in stackoverflow: "Is it possible to call a function peridoically in C++ with Qt function?" Here the 2 key factors were clearly considered before asking the question. They want to achieve the ability to call a function periodically with the context of using C++ and the software Qtcreator. 
 
-However, in typescript im faced with a whole new system of how the programming language operates and is used. Sure a programming language still shares the main aspects of program structure but for me it feels like all of the syntax rules begin to blend together when im trying to work on something.
+As a result of the question beiing appropiately posted on stackoverflow, there were 5 different and versatile answers that the original user can consider and work with in order to achieve what they want. Sure, not all of the commenters gave the same answer but they all gave a working solution that they thought will work best. What matters is the original user wanted to achieve something and they were provided with 5 different ways to achieve just that with the prior context in mind.
 
-Regardless, sometimes when learning something new you have to break everything apart and start again in hopes to become stronger and better.
+Heres the question: (https://stackoverflow.com/questions/16786109/how-to-call-a-function-periodically-in-qt).
 
-## What about C and C++?
+## The Bad Question
 
-Of all of the languages I know C and C++ are my best and most well known languages by far. Perhaps the bad impression I got from typescript derived from already having a refined foundation of knowledge of C and C++. By comparison, I see typescript as a mediocre programming language. Are there powerful tools? Of course. Does C and C++ also have powerful tools along with a more raw programming language capable of achieving exactly what the programmer wants? No question.
+On the other hand, a bad question about your code most likely does not consider the key factors that make up a good question. Maybe, you might include one of the key factors but one without the other and the foundation will fall apart. If you state what you want to achieve but dont give context you're surely not going to get the answer youre looking for. If you give context to what youre working on or thinking of working on but dont clearly state what you want to achieve you'll end up on the same road as before.
 
-Nevertheless, one shouldnt be quick to condemn when they havent even scratched the surface yet. There is still alot more in typescript that I have to uncover before making a definite and actual claim.
+With that in mind, consider this question: "Is there any function or something like that by that which I can create totally random strings or numbers?" In here while poorly delivered, the original user does state what they want to achieve but provides little to no context whatsoever. To begin with, what programming language is being used? Thats just one of many other questions that arise from a poorly delivered question.
 
-## Will my belt see more tools from typescript?
+From this bad question there still came responses and while in the case of the good question there were several different answers, in this case its likely none of these responses are capable of achieving what the original user wanted. If the user was relatively new to programming as well, seeing several different solutions to their question being in a foreign programming language will surely not do the trick. 
 
-While my first impression of typescript isnt the greatest one cant argue that there are useful tools and concepts in typescript that can be used in all other languages. Not to mention, typescript inadverdantly introduces new approaches to very similar if not the exact same types of prompts and challenges that other languages procure.
+Heres the question: (https://stackoverflow.com/questions/3244999/create-a-random-string-or-number-in-qt4).
 
-Some of the things that typescript normally uses are sometimes not normal or recommended when coding with other languages like C and C++. I feel like this really creates a new perspective and a new way to approach programming structure.
+## So there are "stupid" questions?
 
-In this case knowledge is nothing more than another tool in my belt.
+So did our grade school teachers lie to us? Are there really "stupid" questions? No, but there are bad questions that give bad answers. Without proper context and clearly stating what you want to achieve youll only fill your head with more of what nobody in this world wants.
+
+More questions.
+
 
