@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "One more tool in my belt"
+title: "Writing Code That Lasts"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-22
+date: 2025-02-13
 published: true
 labels:
   - Computer Science
@@ -11,7 +11,7 @@ labels:
 
 # <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
 
-When it comes to programming I imagine a tool belt around my waist. Once you first get started you start to use and gain more tools on your belt. Maybe your first language was Python or Java but eventually as you continue to go through school and different experiences throughout your life, your toolbelt gains a large plethra of tools. 
+ 
 
 I consider myself someone who "bloomed late" as I only started gaining interest in programming and coding in my Senior year of Highschool when I decided to take a AP Computer Science class. The class itself was extremely fun and I found myself both challenged and engaged with each assignment there was to come.
 
