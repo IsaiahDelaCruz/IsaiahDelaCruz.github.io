@@ -9,7 +9,8 @@ labels:
   - Computer Science
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
+# <img width="200px" class="rounded float-start pe-4" src="../img/codingsstan.jpg">
+
 
 When writing code usually the first thought that comes into your head isnt about how pretty your code looks or how nice your code looks. The first thought everyone is thinking about is "how am I going to fix my code?". That isnt nessecarily a bad something, in fact its something probobaly what every programmer thinks. This is until your future boss of your future software engineering job looks at your code and is in complete disbelief at how commplicated and unfathomable your code is.
 
