@@ -11,35 +11,24 @@ labels:
 
 # <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
 
- 
+When writing code usually the first thought that comes into your head isnt about how pretty your code looks or how nice your code looks. The first thought everyone is thinking about is "how am I going to fix my code?". That isnt nessecarily a bad something, in fact its something probobaly what every programmer thinks. This is until your future boss of your future software engineering job looks at your code and is in complete disbelief at how commplicated and unfathomable your code is.
 
-I consider myself someone who "bloomed late" as I only started gaining interest in programming and coding in my Senior year of Highschool when I decided to take a AP Computer Science class. The class itself was extremely fun and I found myself both challenged and engaged with each assignment there was to come.
+Of course you show your boss that your program works and is producing the exact results that they wanted from the task. Then he tells you that the program youre coding is going to be used by a team of 4 senior engineers to build upon and improve features and functionality.
 
-As the class went on I really felt like I was onto something with my life, it felt like I was called to do something I just didnt know what yet. This feeling was always so thrilling yet so subtle and periodic. Days where I learn a new way to implement something or learn more about the program structure itself. Even if its just anything small I learned and picked up on the way thats when I realized something.
-
-The best part for me was getting one more tool in my belt.
+Following coding standards and using tools like ESLint isnt just about following rules and syntax or even mkaing your code pretty. Its about readability. What separates good code from bad code is structure and organization. Bad code is capable of achieving the goal while being completely unreadable. While on the other hand good code looks more organized, structured and even simple in some places where even some people that barely know programming languages can understand the functionality. 
 
 
+## Day 1 of using ESLint
 
-## Learning Typescript
+Upon doing my first assignment in Visual Studio Code with ESLint I was immdiately met with the color red every second I typed. It actually bothered me at times because I couldnt differentiate the difference between actual errors and ESLint errors. Seeing all of the red gave my one urge and one urge only, which was to get rid of all the errors so I could focus on the assignment.
 
-Currently im a Junior in Computer Science and so far I've got Python, Java, C and C++ in my toolbelt of programming languages. In learning all of those languages none compare to the way typescript has given me its first impression. When learning the languages I have, most of them share very common naming conventions and even have similar if not the exact same implementation of how theyre used.
+Once I started to finish the assignmment I had gotten rid of all of the errors and noticed that not only did I finally solve and figure out how to do my coding assigment but my code looks very nice and well organized. I wouldnt say it made me completely surpised but it did make me realize the way Ive been writing code has been a bit messy compared to how it should be.
 
-However, in typescript im faced with a whole new system of how the programming language operates and is used. Sure a programming language still shares the main aspects of program structure but for me it feels like all of the syntax rules begin to blend together when im trying to work on something.
 
-Regardless, sometimes when learning something new you have to break everything apart and start again in hopes to become stronger and better.
+## Pretty code is smarter code
 
-## What about C and C++?
+Aside from making my code more pretty, structured and organized it also gave me the realization of how things worked in my code. Generally speaking doing anything in life wrong helps you learn from your mistakes. ESLint and coding standards as a whole is kind of the life coach that every programmer has been secretly yearning for. It clearly points out nearly every coding standard error in you code and helps you learn the correct wway to write something. 
 
-Of all of the languages I know C and C++ are my best and most well known languages by far. Perhaps the bad impression I got from typescript derived from already having a refined foundation of knowledge of C and C++. By comparison, I see typescript as a mediocre programming language. Are there powerful tools? Of course. Does C and C++ also have powerful tools along with a more raw programming language capable of achieving exactly what the programmer wants? No question.
+Maybe pretty code is smarter code
 
-Nevertheless, one shouldnt be quick to condemn when they havent even scratched the surface yet. There is still alot more in typescript that I have to uncover before making a definite and actual claim.
-
-## Will my belt see more tools from typescript?
-
-While my first impression of typescript isnt the greatest one cant argue that there are useful tools and concepts in typescript that can be used in all other languages. Not to mention, typescript inadverdantly introduces new approaches to very similar if not the exact same types of prompts and challenges that other languages procure.
-
-Some of the things that typescript normally uses are sometimes not normal or recommended when coding with other languages like C and C++. I feel like this really creates a new perspective and a new way to approach programming structure.
-
-In this case knowledge is nothing more than another tool in my belt.
 
