@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
+# <img width="200px" class="rounded float-start pe-4" src="../img/bootstrap.png">
 
 Something I've learned overtime coding in HTML is that things are kept fairly simple. Coding a website using raw HTML and CSS can be somewhat time consuming but again simple and straight to the point with what HTML and CSS has to offer as a programming language. Why would I need anything like Bootstrap 5 to do things like set the background color or set icon types for my website? Who even cares if I use prebuilt components or if I just code it raw with either HTML or CSS?
 
