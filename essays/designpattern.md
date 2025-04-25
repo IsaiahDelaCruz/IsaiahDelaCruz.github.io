@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
+# <img width="200px" class="rounded float-start pe-4" src="../img/thatguy.png">
 
 When I first stepped into the world of programming, it felt like walking onto a vast construction site. Blank, chaotic, filled with potential, yet overwhelmingly complex. I was handed tools such as Python, Java and HTML. I didn’t care if what I built was perfect,
 
