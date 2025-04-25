@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "place"
+title: "The Pattern in Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
 published: true
@@ -11,7 +11,7 @@ labels:
 
 # <img width="200px" class="rounded float-start pe-4" src="../img/toolbelt_img.jpg">
 
-When I first stepped into the world of programming, it felt like walking onto a vast construction site. Blank, chaotic, filled with potential, yet overwhelmingly complex. I was handed a single tool—maybe Python or Java—and told to start building. I didn’t care if what I built was perfect,
+When I first stepped into the world of programming, it felt like walking onto a vast construction site. Blank, chaotic, filled with potential, yet overwhelmingly complex. I was handed tools such as Python, Java and HTML. I didn’t care if what I built was perfect,
 
 just that it worked. Over time, I added more tools: loops, data structures, object-oriented principles. But discovering design patterns? That was the moment I stopped being just a builder and started thinking like an architect.
 
