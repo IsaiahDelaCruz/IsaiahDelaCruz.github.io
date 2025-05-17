@@ -26,7 +26,7 @@ What makes IDPM powerful is that it doesn’t only apply to web apps. Imagine yo
 
 Now let’s talk about Configuration Management. Sounds technical and boring, but it’s anything but.
 
-Configuration Management is all about managing changes to your software—keeping track of code, dependencies, settings, environments, and more. Ever had your code work on one machine but break on another? That’s what configuration management solves. It ensures that you, your team, and even future-you can reproduce, debug, and scale your software reliably. 
+Configuration Management is all about managing changes to your software, keeping track of code, dependencies, settings, environments, and more. Ever had your code work on one machine but break on another? That’s what configuration management solves. It ensures that you, your team, and even future-you can reproduce, debug, and scale your software reliably. 
 
 This is done using tools like version control systems (e.g., Git), package managers (like npm or pip), and environment managers (like Docker). These tools might seem like extras when you’re coding solo, but in any team environment or any long-term project they’re essential. They bring order to chaos.
 
