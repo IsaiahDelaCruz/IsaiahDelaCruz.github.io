@@ -27,7 +27,9 @@ The browsing page in Project Janus was made for students and companies alike to 
 
 Alot of my time and effort was mainly spent on designing the company cards and the browsing page itself. What was important to me was making the page look simple, professional and digestible for any user. In addition,
 
-<img src="/img/browz.png" width="1000px" alt="Browz logo">
+<div style="text-align: center;">
+  <img src="/img/browz.png" width="1100px" alt="Browz logo">
+</div>
 
 #### Github Project Page
 
