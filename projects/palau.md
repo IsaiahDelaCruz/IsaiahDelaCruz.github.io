@@ -4,7 +4,7 @@ type: project
 image: img/4009102.png
 title: "Palauan Language Research Paper"
 date: 2024
-published: true
+published: false
 labels:
   - Research
   - Langauge
