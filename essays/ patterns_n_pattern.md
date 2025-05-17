@@ -4,7 +4,7 @@ type: essay
 title: "The Pattern in Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
-published: false
+published: true
 labels:
   - Computer Science
 ---
