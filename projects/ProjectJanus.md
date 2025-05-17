@@ -21,15 +21,15 @@ Project Janus’s main mission is to provide UH computer science and engineering
 
 For this webpage I focused on key foundations of the project such as the browser page, github project page, and attributing to improvements and fixing the system.
 
-### Browser Page
+#### Browser Page
 
-### Github Project Page
+#### Github Project Page
 
-### Fixes and Improvements
+#### Fixes and Improvements
 
-### Miscellaneous Contributions
+#### Miscellaneous Contributions
 
-Aside from the contributions stated prior, the project as a whole took alot of collective effort from each and every member. As for my minor contributions this included organizing a few team meatings, occasionally checking in on others with tasks, and also keeping all of our resources organized in both Github and Discord.
+Aside from the contributions stated prior, the project as a whole took alot of collective effort from each and every member. As for my minor contributions this included organizing a few team meatings, occasionally checking in on others with tasks, and also keeping all of our resources organized in both Github and Discord. Overall the little things matter most especially when working on a big project like Project Janus and each of my members contributed to the little things immensely.
 
 
 
