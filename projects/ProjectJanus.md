@@ -44,10 +44,12 @@ Project Janus didnt come without its issues. Me and my team collectively worked 
 Aside from the contributions stated prior, the project as a whole took alot of collective effort from each and every member. As for my minor contributions this included organizing a few team meatings, occasionally checking in on others with tasks, and also keeping all of our resources organized in both Github and Discord. Overall the little things matter most especially when working on a big project like Project Janus and each of my members contributed to the little things immensely.
 
 
-
 ## Experience Gained
 
+here
 
 
-Source: *link to Organization Github page
+
+[Project Janus GitHub Repository](https://github.com/project-janus-3)
+
 
