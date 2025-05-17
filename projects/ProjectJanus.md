@@ -33,7 +33,11 @@ Alot of my time and effort was mainly spent on designing the company cards and t
 
 #### Github Project Page
 
+The Github project page was dedicated to introducing Project Janus as well the process of doing so. This came initially in the form of providing users with mockup pages of the webpage, an overview of Project Janus's mission and even addition resources such as team member info, links to project management, etc. Me and my team collectively worked on the project page; I was tasking with working on updating the User Guide's descriptions and screenshots whenever progress was made with them. In addition, I also split up the original User Guide to include both a student user guide and a company user guide resctively.
+
 #### Fixes and Improvements
+
+Project Janus didnt come without its issues. Me and my team collectively worked on ensuring Vercel deployment (with one primarily in charge of deployment) by making sure all files in the repository were without its common errors which would cause deployment issues. Moreover, I also made sure that the browsing page was constantly observed for improvement. This meant multiple version of the browser page being built on top of eachother, each being better and more improved than its predecessor.
 
 #### Miscellaneous Contributions
 
