@@ -28,7 +28,7 @@ The browsing page in Project Janus was made for students and companies alike to 
 Alot of my time and effort was mainly spent on designing the company cards and the browsing page itself. What was important to me was making the page look simple, professional and digestible for any user. In addition,
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/browz.png" class="img-thumbnail" >
+  <img width="200px" src="../img/browz.png">
 </div>
 
 #### Github Project Page
@@ -48,9 +48,9 @@ Aside from the contributions stated prior, the project as a whole took alot of c
 
 Overall the experience I gained from working on Project Janus with my teamates Royce, Danny and Ethan were one I wont forget. Albeit, the most memorable thing I will remember is the load of the issues that came up while working on the project. From github desktop issues on my laptop, to Vercel deployment issues. There were nothing but issues on top of issues and maybe thats a good thing? 
 
-One thing that working on this project as team made me realize that despite what youre doing for the project whether it be a webpage project or a project not involving tech issues and conflict arises. This is of course the obvious, however when coming together and putting together our ideas on how we wanna work on the project you at some moments feel like the project is a breeze. When in fact we all got our work cut out for us without knowing.
+One thing that working on this project as team made me realize that despite what youre doing for the project whether it be a webpage project or a project not involving tech, issues and conflict arises. This is of course the obvious, however when coming together and putting together our ideas on how we wanna work on the project you at some moments feel like the project is a breeze. When in fact we all got our work cut out for us without knowing.
 
-The point im trying to get at is, I experienced first hand in a situation similar to my future career to prepare for things to go wrong.
+The point im trying to get at is, I experienced first hand how to prepare for things to go wrong.
 
 
 
