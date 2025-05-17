@@ -23,6 +23,14 @@ For this webpage I focused on key foundations of the project such as the browser
 
 #### Browser Page
 
+The browsing page in Project Janus was made for students and companies alike to be able to browse through various companies and pick out specific opportunities that students felt catered to. The company cards in the browsing page provide details such as an overview of the company, location and as well as contact information for any student to follow up on.
+
+Alot of my time and effort was mainly spent on designing the company cards and the browsing page itself. What was important to me was making the page look simple, professional and digestible for any user. In addition,
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/banksmol.png" class="img-thumbnail" >
+</div>
+
 #### Github Project Page
 
 #### Fixes and Improvements
@@ -35,10 +43,6 @@ Aside from the contributions stated prior, the project as a whole took alot of c
 
 ## Experience Gained
 
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/banksmol.png" class="img-thumbnail" >
-</div>
 
 
 Source: *link to Organization Github page
